@@ -60,7 +60,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [无] | [C++](0014-Longest-Common-Prefix/cpp-0014/) | | |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | [C++](0015-3Sum/cpp-0015/) | | |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [无] | [C++](0016-3Sum-Closest/cpp-0016/) | | |
-| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [无] | [C++](0017-Letter-Combinations-of-a-Phone-Number/cpp-0017/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) | |
+| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/) | [C++](0017-Letter-Combinations-of-a-Phone-Number/cpp-0017/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) | |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [无] | [C++](0018-4Sum/cpp-0018/) | | |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) | [C++](0019-Remove-Nth-Node-From-End-of-List/cpp-0019/) | [Java](0019-Remove-Nth-Node-From-End-of-List/java-0019/src/) | |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) | [C++](0020-Valid-Parentheses/cpp-0020/) | [Java](0020-Valid-Parentheses/java-0020/src/) | |
@@ -73,23 +73,24 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | [C++](0027-Remove-Element/cpp-0027/) | | |
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>[缺：KMP等高级字符串匹配算法] | [C++](0028-Implement-strStr/cpp-0028/) | | |
 | | | | | | |
-| 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [无] | [C++](0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | | |
+| 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | [C++](0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0034-Search-for-a-Range/cpp-0034/) | | |
 | | | | | | |
-| 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [无] | [C++](0036-Valid-Sudoku/cpp-0036/) | | |
+| 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [solution](https://leetcode.com/problems/valid-sudoku/solution/) | [C++](0036-Valid-Sudoku/cpp-0036/) | | |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [无]<br/>[缺：Dancing Links] | [C++](0037-Sudoku-Solver/cpp-0037/) | | |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [无] | [C++](0038-Count-and-Say/cpp-0038/) | | |
 | 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [无] | [C++](0039-Combination-Sum/cpp-0039/) | | |
 | 040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [无] | [C++](0040-Combination-Sum-II/cpp-0040/) | | |
-| | | | | | |
+| 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [solution](https://leetcode.com/problems/first-missing-positive/solution/) | [C++](0041-First-Missing-Positive/cpp-0041/) | | |
 | 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [solution](https://leetcode.com/problems/trapping-rain-water/solution/) | [C++](0042-Trapping-Rain-Water/cpp-0042/) | | |
 | | | | | | |
-| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [缺：排列算法整理] | [C++](0046-Permutations/cpp-0046/) | [Java](0046-Permutations/java-0046/src/) | |
+| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [solution](https://leetcode.com/problems/permutations/solution/)<br/>[缺：排列算法整理] | [C++](0046-Permutations/cpp-0046/) | [Java](0046-Permutations/java-0046/src/) | |
 | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [无] | [C++](0047-Permutations-II/cpp-0047/) | | |
 | 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [solution](https://leetcode.com/problems/rotate-image/) | [C++](0048-Rotate-Image/cpp-0048/) | | |
 | 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [solution](https://leetcode.com/problems/group-anagrams/solution/) | [C++](0049-Group-Anagrams/cpp-0049/) | | |
-| | | | | | |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [无] | [C++](0050-Pow-x-n/cpp-0050/) | | |
 | 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [缺：N皇后问题整理] | [C++](0051-N-Queens/cpp-0051/) | [Java](0051-N-Queens/java-0051/src/) | |
+| 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](https://leetcode.com/problems/n-queens-ii/solution/)<br/>[缺：N皇后问题整理] | [C++](0052-N-Queens-II/cpp-0052/) | | |
 | | | | | | |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [solution](https://leetcode.com/problems/spiral-matrix/solution/) | [C++](0054-Spiral-Matrix/cpp-0054/) | | |
 | | | | | | |
@@ -97,7 +98,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [无] | [C++](0059-Spiral-Matrix-II/cpp-0059/) | | |
 | | | | | | |
-| 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [无] | [C++](0061-Rotate-List/cpp-0061/) | | |
+| 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [solution](https://leetcode.com/problems/rotate-list/solution/) | [C++](0061-Rotate-List/cpp-0061/) | | |
 | | | | | | |
 | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [solution](https://leetcode.com/problems/unique-paths-ii/solution/) | [C++](0063-Unique-Paths-II/cpp-0063/) | | |
 | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0064-Minimum-Path-Sum/cpp-0064/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | |
@@ -118,19 +119,21 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [无] | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/src/) | |
 | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [无] | [C++](0080-Remove-Duplicates-from-Sorted-Array-II/cpp-0080/) | | |
 | | | | | | |
-| 086 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [无] | [C++](0086-Partition-List/cpp-0086/) | | |
+| 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [无] | [C++](0082-Remove-Duplicates-from-Sorted-List-II/cpp-0082/) | | |
+| | | | | | |
+| 086 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [solution](https://leetcode.com/problems/partition-list/solution/) | [C++](0086-Partition-List/cpp-0086/) | | |
 | 087 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | [无] | [C++](0087-Scramble-String/cpp-0087/) | | |
-| 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [无] | [C++](0088-Merge-Sorted-Array/cpp-0088/) | | |
+| 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [solution](https://leetcode.com/problems/merge-sorted-array/solution/) | [C++](0088-Merge-Sorted-Array/cpp-0088/) | | |
 | | | | | | |
-| 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [无] | [C++](0092-Reverse-Linked-List-II/cpp-0092/) | | |
-| | | | | | |
+| 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [solution](https://leetcode.com/problems/reverse-linked-list-ii/solution/) | [C++](0092-Reverse-Linked-List-II/cpp-0092/) | | |
+| 093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [solution](https://leetcode.com/problems/restore-ip-addresses/solution/) | [C++](0093-Restore-IP-Addresses/cpp-0093/) | | |
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) | [C++](0094-Binary-Tree-Inorder-Traversal/cpp-0094/) | [Java](0094-Binary-Tree-Inorder-Traversal/java-0094/src/) | |
 | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees-ii/solution/) | [C++](0095-Unique-Binary-Search-Trees-II/cpp-0095/) | | |
 | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees/solution/) | [C++](0096-Unique-Binary-Search-Trees/cpp-0096/) | | |
 | | | | | | |
 | 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [solution](https://leetcode.com/problems/validate-binary-search-tree/solution/) | [C++](0098-Validate-Binary-Search-Tree/cpp-0098/) | [Java](0098-Validate-Binary-Search-Tree/java-0098/src/) | |
 | 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [无] | | [Java](0099-Recover-Binary-Search-Tree/java-0099/src/) | |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [无] | [C++](0100-Same-Tree/cpp-0100/) | | |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [solution](https://leetcode.com/problems/same-tree/solution/) | [C++](0100-Same-Tree/cpp-0100/) | | |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [solution](https://leetcode.com/problems/symmetric-tree/solution/) | [C++](0101-Symmetric-Tree/cpp-0101/) | | |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [无] | [C++](0102-Binary-Tree-Level-Order-Traversal/cpp-0102/) | [Java](0102-Binary-Tree-Level-Order-Traversal/java-0102/src/) | |
 | | | | | | |
@@ -157,7 +160,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [无] | [C++](0125-Valid-Palindrome/cpp-0125/) | | |
 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | [无]<br/>[缺：双端搜索] | [C++](0126-Word-Ladder-II/cpp-0126/) | | |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [无] | [C++](0127-Word-Ladder/cpp-0127/) | [Java](0127-Word-Ladder/java-0127/) | |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [solution](https://leetcode.com/problems/word-ladder/solution/) | [C++](0127-Word-Ladder/cpp-0127/) | [Java](0127-Word-Ladder/java-0127/) | |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | | [C++](0128-Longest-Consecutive-Sequence/cpp-0128/) | | |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [无] | [C++](0129-Sum-Root-to-Leaf-Numbers/cpp-0129/) | | |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [无] | [C++](0130-Surrounded-Regions/cpp-0130/) | | |
@@ -174,9 +177,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](0144-Binary-Tree-Preorder-Traversal/cpp-0144/) | [Java](0144-Binary-Tree-Preorder-Traversal/java-0144/src/) | |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) | [C++](0145-Binary-Tree-Postorder-Traversal/cpp-0145/) | [Java](0145-Binary-Tree-Postorder-Traversal/java-0145/src/) | |
-| | | | | | |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [solution](https://leetcode.com/problems/lru-cache/solution/)<br/>[缺：封装一个Double Linked List] | [C++](0146-LRU-Cache/cpp-0146/) | | |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [无] | [C++](0147-Insertion-Sort-List/cpp-0147/) | | |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [无] | [C++](0148-Sort-List/cpp-0148/) | | |
-| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [无] | [C++](0149-Max-Points-on-a-Line/cpp-0149/) | | |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [solution](https://leetcode.com/problems/max-points-on-a-line/solution/) | [C++](0149-Max-Points-on-a-Line/cpp-0149/) | | |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [无] | [C++](0150-Evaluate-Reverse-Polish-Notation/cpp-0150/) | | |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [无] | [C++](151-Reverse-Words-in-a-String/cpp-0151/) | | |
 | | | | | | |
@@ -184,8 +188,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [无] | [C++](0155-Min-Stack/cpp-0155/) | | |
 | | | | | | |
-| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [无] | [C++](0159-Longest-Substring-with-At-Most-Two-Distinct-Characters/cpp-0159/) | | |
+| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/solution/) | [C++](0159-Longest-Substring-with-At-Most-Two-Distinct-Characters/cpp-0159/) | | |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [solution](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/) | [C++](0160-Intersection-of-Two-Linked-Lists/cpp-0160/) | | |
+| 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [solution](https://leetcode.com/problems/one-edit-distance/solution/) | [C++](0161-One-Edit-Distance/cpp-0161/) | | |
 | | | | | | |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solution/) | [C++](0167-Two-Sum-II-Input-array-is-sorted/cpp-0167/) | [Java](0167-Two-Sum-II-Input-array-is-sorted/java-0167/src/) | |
 | | | | | | |
@@ -216,10 +221,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [solution](https://leetcode.com/problems/minimum-size-subarray-sum/solution/) | [C++](0209-Minimum-Size-Subarray-Sum/cpp-0209/) | [Java](0209-Minimum-Size-Subarray-Sum/java-0209/src/) | |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [solution](https://leetcode.com/problems/course-schedule-ii/solution/) | [C++](0210-Course-Schedule-II/cpp-0210/) | | |
 | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | [无] | [C++](0211-Add-and-Search-Word-Data-structure-design/cpp-0211/) | | |
-| | | | | | |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [无] | [C++](0212-Word-Search-II/cpp-0212/) | | |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [无] | [C++](0213/House-Robber-II/cpp-0213/) | | |
 | | | | | | |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [无] | [C++](0215-Kth-Largest-Element-in-an-Array/cpp-0215/) | | |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [solution](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/) | [C++](0215-Kth-Largest-Element-in-an-Array/cpp-0215/) | | |
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [无] | [C++](0216/Combination-Sum-III/cpp-0216/) | | |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [无] | [C++](0217/Contains-Duplicate/cpp-0217/) | | |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | | [C++](0218-The-Skyline-Problem/cpp-0218/) | | |
@@ -242,12 +247,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/)<br/>[缺：非递归解法；LCA问题总结] | [C++](0236-Lowest-Common-Ancestor-of-a-Binary-Tree/cpp-0236/) | | |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) | [C++](0237-Delete-Node-in-a-Linked-List/cpp-0237/) | [Java](0237-Delete-Node-in-a-Linked-List/java-0237/src/) | |
 | | | | | | |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [无] | [C++](0239-Sliding-Window-Maximum/cpp-0239/) | | |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [solution](https://leetcode.com/problems/sliding-window-maximum/solution/) | [C++](0239-Sliding-Window-Maximum/cpp-0239/) | | |
 | | | | | | |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [solution](https://leetcode.com/problems/valid-anagram/solution/) | [C++](0242-Valid-Anagram/cpp-0242/) | | |
+| 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [solution](https://leetcode.com/problems/shortest-word-distance/solution/) | [C++](0243-Shortest-Word-Distance/cpp-0243/) | | |
+| 244 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | [solution](https://leetcode.com/problems/shortest-word-distance-ii/solution/) | [C++](0244-Shortest-Word-Distance-II/cpp-0244/) | | |
+| 245 | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | [无] | [C++](0245-Shortest-Word-Distance-III/cpp-0245/) | | |
 | | | | | | |
 | 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) | [无] | [C++](0249-Group-Shifted-Strings/cpp-0249/) | | |
-| 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [无] | [C++](0250-Count-Univalue-Subtrees/cpp-0250/) | | |
+| 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | [solution](https://leetcode.com/problems/count-univalue-subtrees/solution/) | [C++](0250-Count-Univalue-Subtrees/cpp-0250/) | | |
 | | | | | | |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | [solution](https://leetcode.com/problems/meeting-rooms/solution/) | [C++](0252-Meeting-Rooms/cpp-0252/) | | |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | [solution](https://leetcode.com/problems/meeting-rooms-ii/solution/) | [C++](0253-Meeting-Rooms-II/cpp-0253/) | | |
@@ -291,13 +299,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [无] | [C++](0337-House-Robber-III/cpp-0337/) | | |
 | | | | | | |
+| 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/solution/) | [C++](0340-Longest-Substring-with-At-Most-K-Distinct-Characters/cpp-0340/) | | |
+| | | | | | |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [无] | [C++](0343-Integer-Break/cpp-0343/) | [Java](0343-Integer-Break/java-0343/src/) | |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [无] | [C++](0344-Reverse-String/cpp-0344/) | | |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [无] | [C++](0345-Reverse-Vowels-of-a-String/cpp-0345/) | | |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | [无] | [C++](0346-Moving-Average-from-Data-Stream/cpp-0346/) | | |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [solution](https://leetcode.com/problems/top-k-frequent-elements/solution/) | [C++](0347-Top-K-Frequent-Elements/cpp-0347/) | [Java](0347-Top-K-Frequent-Elements/java-0347/src/) | |
 | | | | | | |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [无] | [C++](0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [solution](https://leetcode.com/problems/intersection-of-two-arrays/solution/) | [C++](0349-Intersection-of-Two-Arrays/cpp-0349/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [无] | [C++](0350-Intersection-of-Two-Arrays-II/cpp-0350/) | [Java](0350-Intersection-of-Two-Arrays-II/java-0350/src/) | |
 | | | | | | |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [无] | [C++](0359-Logger-Rate-Limiter/cpp-0359/) | | |
@@ -334,6 +344,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [无] | [C++](0416-Partition-Equal-Subset-Sum/cpp-0416/) | [Java](0416-Partition-Equal-Subset-Sum/java-0416/src/) | |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [无] | | [Java](0417-Pacific-Atlantic-Water-Flow/java-0417/src/) | |
 | | | | | | |
+| 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [solution](https://leetcode.com/problems/reconstruct-original-digits-from-english/solution/) | [C++](0423-Reconstruct-Original-Digits-from-English/cpp-0423/) | | |
+| | | | | | |
 | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [无] | [C++](0429-N-ary-Tree-Level-Order-Traversal/cpp-0429/) | | |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) | [无] | [solution](0430-Flatten-a-Multilevel-Doubly-Linked-List/cpp-0430/) | | |
 | | | | | | |
@@ -368,6 +380,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | [solution](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | [C++](0497-Random-Point-in-Non-overlapping-Rectangles/cpp-0497/) | | |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [无] | [C++](0498-Diagonal-Traverse/cpp-0498/) | | |
 | | | | | | |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [无] | [C++](0509-Fibonacci-Number/cpp-0509/) | | |
+| | | | | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0518-Coin-Change-2/cpp-0518/) | | |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | [solution](https://leetcode.com/problems/random-flip-matrix/solution/) | [C++](0519-Random-Flip-Matrix/cpp-0519/) | | |
 | | | | | | |
@@ -383,6 +397,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [solution](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/solution/) | [C++](0559-Maximum-Depth-of-N-ary-Tree/cpp-0559/) | | |
 | | | | | | |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [solution](https://leetcode.com/problems/array-partition-i/solution/) | [C++](0561-Array-Partition-I/cpp-0561/) | | |
+| | | | | | |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [solution](https://leetcode.com/problems/binary-tree-tilt/solution/) | [C++](0563-Binary-Tree-Tilt/cpp-0563/) | | |
 | | | | | | |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [solution](https://leetcode.com/problems/subtree-of-another-tree/solution/) | [C++](0572-Subtree-of-Another-Tree/cpp-0572/) | | |
 | | | | | | |
@@ -620,4 +636,46 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [solution](https://leetcode.com/problems/check-completeness-of-a-binary-tree/solution/) | [C++](0958-Check-Completeness-of-a-Binary-Tree/cpp-0958/) | | |
 | 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [solution](https://leetcode.com/problems/regions-cut-by-slashes/solution/) | [C++](0959-Regions-Cut-By-Slashes/cpp-0959/) | | |
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/solution/) | [C++](0960-Delete-Columns-to-Make-Sorted-III/cpp-0960/) | | |
+| | | | | | |
+| 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [solution](https://leetcode.com/problems/pancake-sorting/solution/) | [C++](0969-Pancake-Sorting/cpp-0969/) | | |
+| 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [solution](https://leetcode.com/problems/powerful-integers/solution/) | [C++](0970-Powerful-Integers/cpp-0970/) | | |
+| 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [solution](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/solution/) | [C++](0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/cpp-0971/) | | |
+| 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [solution](https://leetcode.com/problems/equal-rational-numbers/solution/) | [C++](0972-Equal-Rational-Numbers/cpp-0972/) | | |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [solution](https://leetcode.com/problems/k-closest-points-to-origin/solution/) | [C++](0973-K-Closest-Points-to-Origin/cpp-0973/) | | |
+| 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [solution](https://leetcode.com/problems/subarray-sums-divisible-by-k/solution/) | [C++](0974-Subarray-Sums-Divisible-by-K/cpp-0974/) | | |
+| | | | | | |
+| 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [solution](https://leetcode.com/problems/largest-perimeter-triangle/solution/) | [C++](0976-Largest-Perimeter-Triangle/cpp-0976/) | | |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [solution](https://leetcode.com/problems/squares-of-a-sorted-array/solution/) | [C++](0977-Squares-of-a-Sorted-Array/cpp-0977/) | | |
+| 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [solution](https://leetcode.com/problems/longest-turbulent-subarray/solution/) | [C++](0978-Longest-Turbulent-Subarray/cpp-0978/) | | |
+| 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [solution](https://leetcode.com/problems/distribute-coins-in-binary-tree/solution/) | [C++](0979-Distribute-Coins-in-Binary-Tree/cpp-0979/) | | |
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [solution](https://leetcode.com/problems/unique-paths-iii/solution/) | [C++](0980-Unique-Paths-III/cpp-0980/) | [Java](0980-Unique-Paths-III/java-0980/)| |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [solution](https://leetcode.com/problems/time-based-key-value-store/solution/) | [C++](0981-Time-Based-Key-Value-Store/cpp-0981/) | | |
+| 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [无] | [C++](0982-Triples-with-Bitwise-AND-Equal-To-Zero/cpp-0982/) | | |
+| 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [solution](https://leetcode.com/problems/minimum-cost-for-tickets/solution/) | [C++](0983-Minimum-Cost-For-Tickets/cpp-0983/) | | |
+| 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [solution](https://leetcode.com/problems/string-without-aaa-or-bbb/solution/) | [C++](0984-String-Without-AAA-or-BBB/cpp-0984/) | | |
+| 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [solution](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [C++](0985-Sum-of-Even-Numbers-After-Queries/cpp-0985/) | | |
+| 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [solution](https://leetcode.com/problems/interval-list-intersections/solution/) | [C++](0986-Interval-List-Intersections/cpp-0986/) | | |
+| 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [solution](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/solution/) | [C++](0987-Vertical-Order-Traversal-of-a-Binary-Tree/cpp-0987/) | | |
+| 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [solution](https://leetcode.com/problems/smallest-string-starting-from-leaf/solution/) | [C++](0988-Smallest-String-Starting-From-Leaf/cpp-0988/) | | |
+| 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [solution](https://leetcode.com/problems/add-to-array-form-of-integer/solution/) | [C++](0989-Add-to-Array-Form-of-Integer/cpp-0989/) | | |
+| 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [solution](https://leetcode.com/problems/satisfiability-of-equality-equations/solution/) | [C++](0990-Satisfiability-of-Equality-Equations/cpp-0990/) | | |
+| 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [solution](https://leetcode.com/problems/broken-calculator/solution/) | [C++](0991-Broken-Calculator/cpp-0991/) | | |
+| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [solution](https://leetcode.com/problems/subarrays-with-k-different-integers/solution/) | [C++](0992-Subarrays-with-K-Different-Integers/cpp-0992/) | | |
+| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [solution](https://leetcode.com/problems/cousins-in-binary-tree/solution/) | [C++](0993-Cousins-in-Binary-Tree/cpp-0993/) | | |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [solution](https://leetcode.com/problems/rotting-oranges/solution/) | [C++](0994-Rotting-Oranges/cpp-0994/) | | |
+| 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [solution](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/) | [C++](0995-Minimum-Number-of-K-Consecutive-Bit-Flips/cpp-0995/) | | |
+| 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | [solution](https://leetcode.com/problems/number-of-squareful-arrays/solution/) | [C++](0996-Number-of-Squareful-Arrays/cpp-0996/) | | |
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [无] | [C++](0997-Find-the-Town-Judge/cpp-0997/) | | |
+| 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [无] | [C++](0998-Maximum-Binary-Tree-II/cpp-0998/) | | |
+| 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [无] | [C++](0999-Available-Captures-for-Rook/cpp-0999/) | | |
+| 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [无] | [C++](1000-Minimum-Cost-to-Merge-Stones/cpp-1000/) | | |
+| 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | [无] | [solution](1001-Grid-Illumination/cpp-1001/) | | |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [无] | [C++](1002-Find-Common-Characters/cpp-1002/) | | |
+| 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [无] | [C++](1003-Check-If-Word-Is-Valid-After-Substitutions/cpp-1003/) | | |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [无] | [C++](1004-Max-Consecutive-Ones-III/cpp-1004/) | | |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [无] | [C++](1005-Maximize-Sum-Of-Array-After-K-Negations/cpp-1005/) | | |
+| 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [无] | [C++](1006-Clumsy-Factorial/cpp-1006/) | | |
+| 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [无] | [C++](1007-Minimum-Domino-Rotations-For-Equal-Row/cpp-1007/) | | |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [无] | [C
+++](1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/cpp-1008/) | | |
 | | | | | | |
